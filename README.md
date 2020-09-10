@@ -1,6 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 Peer-graded assignment: Coursera- Getting and Cleaning Data Course Project
-This repository is created for Getting and Cleaning Data Course Project, which includes Codebook.md, run_analysis.R and FinalData.txt. The goald of this project is to collect, work and tidy a dataset, to prepare a clean dataset for future analysis purposes. 
+This repository is created for Getting and Cleaning Data Course Project, which includes Codebook.md, run_analysis.R and FinalData.txt. 
+The goal of this project is to collect, work and tidy a dataset, to prepare a clean dataset for future analysis purposes. 
 The data can be downloaded through https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. Description of the data can be downloaded through http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. 
 
 ## Files 
